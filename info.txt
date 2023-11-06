@@ -1,0 +1,9 @@
+JAN PAWEŁ II SITE INFORMATION
+
+Index author = szymon
+Style author = szymon
+This file author = szymon
+
+Site made with love by szymon
+
+https://janpawel.github.io
