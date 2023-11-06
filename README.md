@@ -1,1 +1,0 @@
-# biografiajanpawel2.github.io
